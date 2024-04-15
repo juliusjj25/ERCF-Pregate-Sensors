@@ -7,7 +7,7 @@ There are also nifty little mounts to hold an XH 2 pin board connector below the
 ![image](https://github.com/juliusjj25/ERCF-Pregate-Sensors/assets/118471600/0ae9d9a2-1584-46cb-bfb0-7e9efcfab5b4)
 ![image](https://github.com/juliusjj25/ERCF-Pregate-Sensors/assets/118471600/a5977b3d-ab2e-4c6b-9ccd-1bd33e6e6ea4)
 
-There are 4 parts involved with this mod and each need to be printed for each gate. I recommend daisy chaining the GND connector between each XH under the ERCF to save space for the number of wires run in the channel. This was tested with a 5 gate ERCF, fitting more wires in the channel than that may not be possible, YMMV.
+There are 4 parts involved with this mod and each need to be printed for each gate. I recommend daisy chaining the GND connector between each XH under the ERCF to save space for the number of wires run in the channel. This uses a lever switch, similar to my G2E toolhead switch mod: [https://github.com/juliusjj25/G2E-Filametrix-Lever-Switch-Mod] Reasons for this over the "standard" bearing + switch are documented there. Trust me, it's better!
 
 ## Bill of Materials (Per Gate)
 | Item                      | Quantity | Notes                                      | Source                                                              |
@@ -20,3 +20,5 @@ There are 4 parts involved with this mod and each need to be printed for each ga
 | M3 Roll-in T-Nut          | 1        |                  |                                                                                               |
 
 All parts are oriented as they should be printed and supports are built into the parts where needed. 
+
+This was tested with a 5 gate ERCF, fitting more wires in the channel than that may not be possible, YMMV.
