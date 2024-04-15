@@ -1,10 +1,13 @@
 # ERCF-Pregate-Sensors
 
 This mod adds pregate sensors to the ERCF V2 that are incorporated right into the filament path parts. 
+
 ![image](https://github.com/juliusjj25/ERCF-Pregate-Sensors/assets/118471600/bbdb6755-35dd-410e-bb5e-a3d932e86dfc)
 
 There are also nifty little mounts to hold an XH 2 pin board connector below the gate to help aid in quick removal of the filament path if maintenance is needed. 
+
 ![image](https://github.com/juliusjj25/ERCF-Pregate-Sensors/assets/118471600/0ae9d9a2-1584-46cb-bfb0-7e9efcfab5b4)
+
 ![image](https://github.com/juliusjj25/ERCF-Pregate-Sensors/assets/118471600/a5977b3d-ab2e-4c6b-9ccd-1bd33e6e6ea4)
 
 There are 4 parts involved with this mod and each need to be printed for each gate. I recommend daisy chaining the GND connector between each XH under the ERCF to save space for the number of wires run in the channel. This uses a lever switch, similar to my G2E toolhead switch mod: [https://github.com/juliusjj25/G2E-Filametrix-Lever-Switch-Mod] Reasons for this over the "standard" bearing + switch are documented there. Trust me, it's better!
