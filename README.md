@@ -13,14 +13,14 @@ There are also nifty little mounts to hold an XH 2 pin board connector below the
 There are 4 parts involved with this mod and each need to be printed for each gate. I recommend daisy chaining the GND connector between each XH under the ERCF to save space for the number of wires run in the channel. This uses a lever switch, similar to my G2E toolhead switch mod: https://github.com/juliusjj25/G2E-Filametrix-Lever-Switch-Mod Reasons for this over the "standard" bearing + switch are documented there. Trust me, it's better!
 
 ## Bill of Materials (Per Gate)
-| Item                      | Quantity | Notes                                      | Source                                                              |
-| ------------------------- | -------- | ---------------- | --------------------------------------------------------------------------------------------- |
-| Levered D2F Switch        | 1        | D2F-L3-D3        | [https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2F-L3-D3/6071977]  |
-| Board Mount XH Connector  | 1        | B2B-XH-2         | [https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-XH-2/9960900]           |
-| Male XH Connector         | 1        | XHP-2            | [https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-2/555485]               |
-| XH Terminals              | 2        | SXH-001T-P0.6    | [https://www.digikey.com/en/products/detail/jst-sales-america-inc/SXH-001T-P0-6/527371]       |
-| M3x6mm SHCS               | 1        |                  |                                                                                               |
-| M3 Roll-in T-Nut          | 1        |                  |                                                                                               |
+| Item                      | Quantity | Notes            | Source                                                                                      |
+| ------------------------- | -------- | ---------------- | ------------------------------------------------------------------------------------------- |
+| Levered D2F Switch        | 1        | D2F-L3-D3        | https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2F-L3-D3/6071977  |
+| Board Mount XH Connector  | 1        | B2B-XH-2         | https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-XH-2/9960900           |
+| Male XH Connector         | 1        | XHP-2            | https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-2/555485               |
+| XH Terminals              | 2        | SXH-001T-P0.6    | https://www.digikey.com/en/products/detail/jst-sales-america-inc/SXH-001T-P0-6/527371       |
+| M3x6mm SHCS               | 1        |                  |                                                                                             |
+| M3 Roll-in T-Nut          | 1        |                  |                                                                                             |
 
 All parts are oriented as they should be printed and supports are built into the parts where needed. 
 
